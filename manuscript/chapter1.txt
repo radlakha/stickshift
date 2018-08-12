@@ -10,3 +10,5 @@ I may like a square book. 8x8. Hardbound.
 I guess the most difficult thing will be to string the small pieces together.
 
 It is also difficult to say what the book will turn out to be about though I start out as a book on photography in manual mode.
+
+This line will not be in the book because i will abandon the branch these changes will be committed to.
